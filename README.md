@@ -85,13 +85,4 @@
 
 ---
 
-### 📊 GitHub activity
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=soorajsuresh-in&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soorajsuresh-in&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
-</p>
-
----
-
 <p align="center"><i>"Technology should open doors for people and keep them safe once they're through."</i></p>
