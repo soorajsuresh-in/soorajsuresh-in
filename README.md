@@ -1,158 +1,209 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00f5ff&height=220&section=header&text=SOORAJ%20SURESH&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Founder%20%E2%80%A2%20Product%20Builder%20%E2%80%A2%20Future%20Security%20Engineer&descSize=18&descAlignY=60" alt="header"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img alt="Sooraj Suresh — terminal profile" src="./assets/header-dark.svg" width="100%">
+</picture>
 
 <p align="center">
-  <a href="https://github.com/soorajsuresh-in">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=00F5FF&center=true&vCenter=true&width=720&lines=%3E+Founder+%26+MD+%40+Gaze+Guard+Pvt.+Ltd.;%3E+Building+Zeiroo+CRM+%E2%80%94+multi-tenant+SaaS;%3E+Shipped+OakVyapar+on+Google+Play;%3E+Developer+of+ShiftNua+%E2%80%94+healthcare+staffing;%3E+Incoming+Cybersecurity+%40+UNT+%E2%80%94+Jan+2027;%3E+Open+to+work+%E2%80%94+web+%26+app+projects" alt="typing"/>
-  </a>
+  <a href="https://www.gazeguard.in"><img src="https://img.shields.io/badge/www.gazeguard.in-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/sooraj-suresh-gg/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:soorajsuresh0022@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:soorajsuresh0022@gmail.com?subject=Project%20enquiry"><img src="https://img.shields.io/badge/●_Open_to_work-2ea043?style=for-the-badge" alt="Open to work"/></a>
+  <img src="https://komarev.com/ghpvc/?username=soorajsuresh-in&style=for-the-badge&color=8250df&label=profile+views" alt="Profile views"/>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sooraj-suresh-gg/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF" alt="LinkedIn"/></a>
-  <a href="https://gazeguard.in"><img src="https://img.shields.io/badge/gazeguard.in-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00F5FF" alt="Website"/></a>
-  <a href="mailto:soorajsuresh0022@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=soorajsuresh-in&style=for-the-badge&color=302b63&label=PROFILE+VIEWS" alt="views"/>
-</p>
+## `01` &nbsp;// about
 
----
+I'm a **founder and full-stack engineer** from Malappuram, Kerala. I build products end to end, from on-device AI hardware to multi-tenant SaaS platforms. In **January 2027** I start a **B.S. in Computer & Information Security at the University of North Texas**.
 
-### `> whoami`
+I started building **Gaze Guard AI** in school: an offline assistive device that helps visually impaired people see, read and navigate. I funded early prototypes myself, including by working at a vegetable shop during my 10th board exams. The project earned a **national selection in the ATL Marathon** and went on to become **Gaze Guard Pvt. Ltd.** in 2024.
+
+Long-term goal: **a cybersecurity company that makes digital protection affordable** for individuals, small businesses and underserved communities.
 
 ```yaml
-name:        Sooraj Suresh
-role:        Founder & MD @ Gaze Guard  |  Full-stack product builder
-location:    Malappuram, Kerala  →  Denton, Texas (Jan 2027)
-education:   B.S. Computer & Information Security @ University of North Texas
-building:    [ Zeiroo CRM, ShiftNua, Gaze Guard AI ]
-shipped:     [ OakVyapar (Google Play), shiftnua.com ]
-learning:    [ Penetration Testing, Network Security, AppSec, Cloud Security ]
-mission:     "Make digital security and intelligent tech accessible to everyone."
+# sys.info
+user:         sooraj_suresh
+roles:        [ Founder & MD @ Gaze Guard Pvt. Ltd., Founder & Lead Dev @ Zeiroo CRM, Developer @ ShiftNua ]
+shipped:      [ OakVyapar — Google Play, shiftnua.com ]
+education:    B.S. Computer & Information Security — University of North Texas (2027 → 2031)
+prev:         Higher Secondary, SVHSS Palemad — 93.67%
+location:     Malappuram, Kerala, IN  →  Denton, Texas, US
+languages:    [ English, Malayalam ]
+focus:        [ AI for accessibility, SaaS architecture, Application & Network Security ]
+status:       open_to_work = true
 ```
 
----
+## `02` &nbsp;// open to work
 
-### `> hire --me`
+> **Available for freelance, contract and internship work, on any web or app project.** I take products from idea to launch: design, backend, mobile, deployment.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/%E2%97%8F%20OPEN%20TO%20WORK-Web%20%26%20App%20Development-00FF9C?style=for-the-badge&labelColor=0D1117" alt="Open to work"/>
-</p>
-
-<p align="center">Available for <b>freelance, contract and internship</b> work. If it runs in a browser or on a phone, I can build it, from idea to launch.</p>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">🌐<br/><b>Websites & Web Apps</b><br/><sub>Landing pages, portals, dashboards</sub></td>
-<td align="center" width="33%">📱<br/><b>Mobile Apps</b><br/><sub>Android & cross-platform with Flutter</sub></td>
-<td align="center" width="33%">⚙️<br/><b>Backend & APIs</b><br/><sub>FastAPI, PostgreSQL, auth, integrations</sub></td>
-</tr>
-<tr>
-<td align="center">📊<br/><b>SaaS & Business Tools</b><br/><sub>CRMs, ERPs, finance & inventory apps</sub></td>
-<td align="center">🔗<br/><b>Integrations</b><br/><sub>WhatsApp Cloud API, email, payments</sub></td>
-<td align="center">🔐<br/><b>Security-minded</b><br/><sub>Secure auth, data protection by default</sub></td>
-</tr>
-</table>
+| Service | What I deliver | Tools |
+|:--|:--|:--|
+| 🌐 **Web apps & websites** | Business sites, landing pages, admin panels, dashboards, customer portals | Responsive web · FastAPI · PostgreSQL |
+| 📱 **Mobile apps** | Android and cross-platform apps, offline-first apps, Play Store release | Flutter · Dart · Riverpod |
+| ⚙️ **Backend & APIs** | REST APIs, JWT auth, role-based access, multi-tenant data models, migrations | Python · FastAPI · SQLAlchemy · Alembic |
+| 📊 **SaaS & business tools** | CRMs, ERPs, inventory, billing and finance apps, workflow automation | Full stack |
+| 🔗 **Integrations** | WhatsApp Cloud API, email, notifications, call tracking, third-party APIs | REST · Webhooks |
+| 🔐 **Security-minded builds** | Secure auth, input validation, least-privilege access, data protection | OWASP practices |
 
 <p align="center">
-  <a href="mailto:soorajsuresh0022@gmail.com?subject=Project%20enquiry"><img src="https://img.shields.io/badge/Start%20a%20project-soorajsuresh0022%40gmail.com-00F5FF?style=for-the-badge&logo=gmail&logoColor=00F5FF&labelColor=0D1117" alt="Hire me"/></a>
+  <a href="mailto:soorajsuresh0022@gmail.com?subject=Project%20enquiry"><img src="https://img.shields.io/badge/$_./start--project_→_soorajsuresh0022@gmail.com-161b22?style=for-the-badge&logo=gnubash&logoColor=3fb950" alt="Start a project"/></a>
 </p>
 
----
+## `03` &nbsp;// projects
 
-### `> ls ./missions`
+### 👁️ Gaze Guard AI &nbsp; ![](https://img.shields.io/badge/status-working_prototype-1f6feb?style=flat-square) ![](https://img.shields.io/badge/AI-assistive_tech-8250df?style=flat-square)
+An **offline AI assistant for visually impaired people** that runs fully on-device, with no internet needed. It detects objects, reads printed text aloud, speaks multiple languages and helps with navigation.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<details>
+<summary><b>▸ architecture & details</b></summary>
 
-#### 👁️ Gaze Guard AI
-Offline AI assistant for visually impaired users: object detection, text recognition and read-aloud, multilingual voice guidance and smart navigation, running fully on-device.
-
-`Python` `Computer Vision` `Embedded HW`
-
-<img src="https://img.shields.io/badge/STATUS-WORKING%20PROTOTYPE-00F5FF?style=flat-square&labelColor=0D1117"/>
-</td>
-<td width="50%" valign="top">
-
-#### 📈 Zeiroo CRM
-Multi-tenant SaaS CRM for EdTech sales and admissions: lead pipelines, workflow automation, tasks and notifications, email and WhatsApp Cloud API, Android companion app with call tracking.
-
-`FastAPI` `PostgreSQL` `SQLAlchemy` `Flutter` `Riverpod` `JWT`
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPMENT-B026FF?style=flat-square&labelColor=0D1117"/>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🏥 [ShiftNua](https://shiftnua.com)
-Healthcare staffing platform for Ireland: facilities post shifts and confirm cover; nurses and HCAs manage credentials, find matching shifts, log timesheets and track payments.
-
-`FastAPI` `Flutter` `PostgreSQL`
-
-<img src="https://img.shields.io/badge/STATUS-WEBSITE%20LIVE-00FF9C?style=flat-square&labelColor=0D1117"/>
-</td>
-<td width="50%" valign="top">
-
-#### 💼 [OakVyapar](https://play.google.com/store/apps/details?id=com.oakvyapar.app)
-Offline-first business manager built for PicoGrain: inventory, billing, customers and suppliers, income and expenses, pending payments, dashboard, backup and restore.
-
-`Android` `Offline-first`
-
-<img src="https://img.shields.io/badge/STATUS-LIVE%20ON%20GOOGLE%20PLAY-00FF9C?style=flat-square&labelColor=0D1117"/>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-#### 🔌 Embedded Systems Lab
-Microcontroller builds with sensors, displays and peripherals over SPI and I²C. This is the hardware layer behind Gaze Guard.
-
-`Arduino` `C/C++` `SPI` `I²C`
-</td>
-</tr>
-</table>
-
----
-
-### `> stack --list`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,flutter,fastapi,postgres,androidstudio,git,github,linux,bash,arduino,vscode&theme=dark&perline=12" alt="tech stack"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=for-the-badge&logo=sqlalchemy&logoColor=00F5FF"/>
-  <img src="https://img.shields.io/badge/Alembic-0D1117?style=for-the-badge&logoColor=00F5FF"/>
-  <img src="https://img.shields.io/badge/Riverpod-0D1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=00F5FF"/>
-  <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Object_Detection-0D1117?style=for-the-badge"/>
-</p>
-
-### `> security --loading`
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=B026FF"/>
-  <img src="https://img.shields.io/badge/Network_Security-0D1117?style=for-the-badge&logo=wireshark&logoColor=B026FF"/>
-  <img src="https://img.shields.io/badge/Penetration_Testing-0D1117?style=for-the-badge&logo=hackthebox&logoColor=B026FF"/>
-  <img src="https://img.shields.io/badge/AppSec-0D1117?style=for-the-badge&logo=owasp&logoColor=B026FF"/>
-  <img src="https://img.shields.io/badge/Cloud_Security-0D1117?style=for-the-badge&logo=icloud&logoColor=B026FF"/>
-</p>
-
----
-
-### `> achievements --unlocked`
-
-```diff
-+ [NATIONAL]  ATL Marathon 2022–23 (Atal Innovation Mission): national selection for Gaze Guard AI
-+ [DISTRICT]  Science Fair: 1st place
-+ [STATE]     Kerala State Science Fair: state-level participant
-+ [ACADEMIC]  Higher Secondary: 93.67% (SVHSS Palemad)
+```mermaid
+flowchart LR
+  CAM[Camera] --> CV[On-device AI<br/>object detection + OCR]
+  SEN[Sensors] --> NAV[Navigation<br/>obstacle awareness]
+  CV --> CORE{Assistant core}
+  NAV --> CORE
+  CORE --> TTS[Multilingual<br/>text-to-speech]
+  TTS --> USER((User))
 ```
 
----
+- **Object detection**: identifies everyday objects and obstacles in real time
+- **Text recognition**: reads printed text (signs, labels, documents) aloud
+- **Multilingual voice**: guidance in the user's own language
+- **Offline-first**: built to work without internet, for affordability and privacy
+- **My role**: founder, concept, AI and hardware integration, prototyping, funding
+- **Recognition**: ATL Marathon 2022–23 national selection · District Science Fair 1st place · Kerala State Science Fair participant
+</details>
+
+### 📈 Zeiroo CRM &nbsp; ![](https://img.shields.io/badge/status-active_development-d29922?style=flat-square) ![](https://img.shields.io/badge/SaaS-multi--tenant-8250df?style=flat-square)
+A **multi-tenant SaaS CRM for education and EdTech** sales and admissions teams. Each institution gets an isolated workspace with lead pipelines, automation and built-in communication.
+
+<details>
+<summary><b>▸ architecture & details</b></summary>
+
+```mermaid
+flowchart LR
+  WEB[Web dashboard] --> API
+  APP[Flutter Android app<br/>+ call monitoring] --> API
+  API[FastAPI REST API<br/>JWT auth · tenant isolation] --> DB[(PostgreSQL<br/>SQLAlchemy + Alembic)]
+  API --> AUTO[Workflow engine<br/>tasks · reminders]
+  API <--> WA[WhatsApp Cloud API]
+  API <--> MAIL[Email]
+  AUTO --> NOTIF[Notifications]
+```
+
+- **Multi-tenancy**: tenant-scoped data model with isolated workspaces per institution
+- **Sales engine**: lead capture, custom pipelines and stages, assignment, follow-ups
+- **Automation**: workflow rules, task management, reminders and notifications
+- **Communication**: WhatsApp Cloud API and email from inside the CRM
+- **Mobile companion**: Flutter and Riverpod Android app with call monitoring synced to lead records
+- **Stack**: `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `JWT` `Flutter` `Dart` `Riverpod`
+- **My role**: founder and lead developer, covering architecture, backend, database and mobile app
+</details>
+
+### 🏥 [ShiftNua](https://shiftnua.com) &nbsp; ![](https://img.shields.io/badge/status-website_live-2ea043?style=flat-square) ![](https://img.shields.io/badge/HealthTech-Ireland-8250df?style=flat-square)
+A **healthcare staffing platform for Ireland** that connects hospitals and care facilities with verified nurses and healthcare assistants (HCAs) who can cover shifts.
+
+<details>
+<summary><b>▸ architecture & details</b></summary>
+
+```mermaid
+flowchart LR
+  FAC[Facility portal] -->|post shifts| API[FastAPI backend]
+  WRK[Worker app<br/>Flutter] -->|apply · check in| API
+  API --> DB[(PostgreSQL)]
+  API --> GEO[Location-based<br/>shift matching]
+  API --> TS[Timesheets &<br/>invoicing]
+  API --> PUSH[Push notifications]
+```
+
+- **Facilities**: post shift requirements, review applicants, confirm cover
+- **Workers**: build a profile, manage credentials and documents, discover shifts nearby
+- **Shift workflow**: attendance confirmation, timesheets, invoice and payment tracking
+- **Web**: [shiftnua.com](https://shiftnua.com) is live; the app is in development
+- **My role**: developer of the website, backend and mobile app
+</details>
+
+### 💼 [OakVyapar](https://play.google.com/store/apps/details?id=com.oakvyapar.app) &nbsp; ![](https://img.shields.io/badge/status-live_on_Google_Play-2ea043?style=flat-square&logo=googleplay&logoColor=white) ![](https://img.shields.io/badge/client-PicoGrain-8250df?style=flat-square)
+An **offline-first business management app** built for PicoGrain. Small businesses use it to run inventory, billing and finances from a phone, without needing internet.
+
+<details>
+<summary><b>▸ architecture & details</b></summary>
+
+```mermaid
+flowchart LR
+  UI[Android app] --> LOCAL[(On-device<br/>storage)]
+  UI --> DASH[Dashboard &<br/>insights]
+  LOCAL --> BK[Backup & restore]
+  UI --> ALERT[Payment reminders<br/>local notifications]
+```
+
+- **Inventory**: products, categories, stock tracking
+- **Finance**: income and expenses, pending payments, business summaries
+- **Contacts**: customer and supplier records, employee details
+- **Data**: stored locally on the device, with manual backup and restore and no third-party data sharing
+- **Shipped**: published on Google Play
+</details>
+
+### 🔌 Embedded Systems Lab &nbsp; ![](https://img.shields.io/badge/status-ongoing-1f6feb?style=flat-square)
+Microcontroller builds with sensors, displays and peripherals over **SPI and I²C**. This is the hardware foundation behind Gaze Guard. `Arduino` `C/C++`
+
+## `04` &nbsp;// tech stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=B026FF&center=true&vCenter=true&width=700&lines=Technology+should+open+doors+for+people+%E2%80%94+and+keep+them+safe+once+they're+through." alt="motto"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,fastapi,postgres,dart,flutter,androidstudio,git,github,linux,bash,arduino,vscode&theme=dark&perline=15">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,fastapi,postgres,dart,flutter,androidstudio,git,github,linux,bash,arduino,vscode&theme=light&perline=15">
+    <img alt="tech stack" src="https://skillicons.dev/icons?i=python,fastapi,postgres,dart,flutter,androidstudio,git,github,linux,bash,arduino,vscode&theme=dark&perline=15">
+  </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:302b63,100:0f0c29&height=120&section=footer" alt="footer"/>
+| Layer | Technologies |
+|:--|:--|
+| **Languages** | Python · Dart · SQL · Bash · C/C++ (embedded) |
+| **Backend** | FastAPI · REST APIs · JWT authentication · SQLAlchemy ORM · Alembic migrations |
+| **Database** | PostgreSQL · multi-tenant schema design · on-device storage |
+| **Mobile** | Flutter · Riverpod · Android · Google Play publishing |
+| **Integrations** | WhatsApp Cloud API · email · push and local notifications |
+| **AI & hardware** | Object detection · OCR · text-to-speech · Arduino · sensors · SPI/I²C |
+| **Tooling** | Git · GitHub · Linux · VS Code · Android Studio |
+
+## `05` &nbsp;// security roadmap
+
+```text
+[ LEARNING ]  Network security          — protocols, traffic analysis, firewalls
+[ LEARNING ]  Application security      — OWASP Top 10, secure auth, API hardening
+[ LEARNING ]  Penetration testing       — recon, exploitation, reporting (Kali Linux)
+[ QUEUED   ]  Cloud security            — IAM, misconfiguration, secure deployments
+[ QUEUED   ]  Digital forensics & SOC   — monitoring, incident response, investigation
+[ QUEUED   ]  AI-assisted security      — ML for threat detection
+```
+<sub>Formal study begins at UNT in January 2027. I'll update progress here as I go.</sub>
+
+## `06` &nbsp;// timeline
+
+| When | Milestone |
+|:--|:--|
+| **2022–23** | 🏆 Gaze Guard AI: **national selection, ATL Marathon** (Atal Innovation Mission) |
+| **School** | 🥇 **1st place, District Science Fair** · Kerala **State Science Fair** participant |
+| **Aug 2024** | 🚀 Founded **Gaze Guard Pvt. Ltd.**, Founder & Managing Director |
+| **2026** | 📲 Shipped **OakVyapar** on Google Play for PicoGrain |
+| **Oct 2026** | 📈 Started **Zeiroo CRM** · 🏥 started developing **ShiftNua** (website live) |
+| **Jan 2027** | 🎓 B.S. Computer & Information Security at **University of North Texas** |
+
+## `07` &nbsp;// contact
+
+```bash
+$ contact --sooraj
+  email     →  soorajsuresh0022@gmail.com
+  web       →  https://www.gazeguard.in
+  linkedin  →  https://www.linkedin.com/in/sooraj-suresh-gg/
+  status    →  open to freelance, contract & internship work (web + app)
+```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg">
+  <img alt="footer" src="./assets/footer-dark.svg" width="100%">
+</picture>
