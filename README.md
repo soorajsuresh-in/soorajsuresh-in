@@ -35,7 +35,7 @@ status:       open_to_work = true
 
 ## `02` &nbsp;// open to work
 
-> **Available for freelance, contract and internship work, on any web or app project.** I take products from idea to launch: design, backend, mobile, deployment.
+> **Available for part-time, freelance, contract and internship work, on any web or app project.** I take products from idea to launch: design, backend, mobile, deployment.
 
 | Service | What I deliver | Tools |
 |:--|:--|:--|
@@ -176,7 +176,7 @@ $ contact --sooraj
   email     →  soorajsuresh0022@gmail.com
   web       →  https://www.gazeguard.in
   linkedin  →  https://www.linkedin.com/in/sooraj-suresh-gg/
-  status    →  open to freelance, contract & internship work (web + app)
+  status    →  open to part-time, freelance, contract & internship work (web + app)
 ```
 
 <picture>
