@@ -20,7 +20,8 @@
 - 🎓 Starting a **B.S. in Computer & Information Security (Cybersecurity)** at the **University of North Texas** in January 2027
 - 🚀 **Founder & Managing Director, Gaze Guard Pvt. Ltd.**: affordable AI-powered assistive technology for the visually impaired
 - 🛠️ Building **Zeiroo CRM**, a multi-tenant SaaS CRM for education sales and admissions teams
-- 🏥 Developer of **ShiftNua**, a healthcare staffing platform connecting facilities with care workers
+- 🏥 Developer of **[ShiftNua](https://shiftnua.com)**, a healthcare staffing platform connecting facilities with nurses and care workers
+- 💼 Built **[OakVyapar](https://play.google.com/store/apps/details?id=com.oakvyapar.app)**, an offline-first business finance app for PicoGrain, live on Google Play
 - 🔐 Currently learning: penetration testing, network security, application security and cloud security
 - 🎯 Long-term goal: a cybersecurity company that makes digital protection affordable for individuals, small businesses and underserved communities
 
@@ -32,7 +33,8 @@
 |---|---|---|---|
 | **👁️ Gaze Guard AI** | Offline AI assistant for visually impaired users: object detection, text recognition and read-aloud, multilingual guidance, smart navigation | Python · Computer vision · Embedded hardware | Working prototype |
 | **📈 Zeiroo CRM** | Multi-tenant CRM for EdTech: lead pipelines, workflow automation, tasks and notifications, email and WhatsApp Cloud API integration, Android companion app with call tracking | FastAPI · PostgreSQL · SQLAlchemy · Alembic · Flutter · Riverpod · JWT | In active development |
-| **🏥 ShiftNua** | Healthcare staffing platform for Ireland: facility management, worker onboarding, shift posting, location-based shift discovery, push notifications | FastAPI · Flutter · PostgreSQL | In development |
+| **🏥 [ShiftNua](https://shiftnua.com)** | Healthcare staffing platform for Ireland: facilities post shifts and confirm cover; nurses and HCAs manage credentials, find matching shifts, log timesheets and track payments | FastAPI · Flutter · PostgreSQL | Website live · app in development |
+| **💼 [OakVyapar](https://play.google.com/store/apps/details?id=com.oakvyapar.app)** | Offline-first business manager built for PicoGrain: inventory, billing, customers and suppliers, income and expenses, pending payments, dashboard, backup and restore | Android · Offline-first | Live on Google Play |
 | **🔌 Embedded projects** | Microcontroller builds with sensors, displays and peripherals over SPI and I²C | Arduino · C/C++ | Ongoing |
 
 ---
