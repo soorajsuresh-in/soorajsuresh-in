@@ -16,7 +16,7 @@
 
 I'm a **founder and full-stack engineer** from Malappuram, Kerala. I build products end to end, from on-device AI hardware to full-stack web and mobile platforms. In **January 2027** I start a **B.S. in Computer & Information Security at the University of North Texas**.
 
-I started building **Gaze Guard AI** in school: an offline assistive device that helps visually impaired people see, read and navigate. I funded early prototypes myself, including by working at a vegetable shop during my 10th board exams. The project earned a **national selection in the ATL Marathon** and went on to become **Gaze Guard Pvt. Ltd.** in 2024.
+I started building **Gaze Guard AI** in school: an offline assistive device that helps visually impaired people see, read and navigate. I funded the early prototypes myself. The project earned a **national selection in the ATL Marathon** and went on to become **Gaze Guard Pvt. Ltd.** in 2024.
 
 Long-term goal: **a cybersecurity company that makes digital protection affordable** for individuals, small businesses and underserved communities.
 
