@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="70" viewBox="0 0 1000 70" role="img" aria-label="footer">
+<style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'SF Mono',Menlo,'Courier New',monospace;font-size:14px}.cur{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}</style>
+<rect x="10" y="10" width="980" height="50" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="34" y="40"><tspan fill="#3fb950" font-weight="700">sooraj@gazeguard</tspan><tspan fill="#8b949e">:~$ </tspan><tspan fill="#e6edf3">echo "thanks for visiting — let's build something" &amp;&amp; exit</tspan></text>
+<rect class="cur" x="706" y="27" width="8" height="16" fill="#e6edf3"/>
+<text x="966" y="40" text-anchor="end" fill="#8b949e">[ session closed ]</text>
+</svg>
