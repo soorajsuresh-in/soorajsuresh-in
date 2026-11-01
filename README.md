@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img alt="Sooraj Suresh — terminal profile" src="./assets/header-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg?v=2">
+  <img alt="Sooraj Suresh — terminal profile" src="./assets/header-dark.svg?v=2" width="100%">
 </picture>
 
 <p align="center">
