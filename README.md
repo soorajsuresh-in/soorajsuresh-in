@@ -23,7 +23,7 @@ Long-term goal: **a cybersecurity company that makes digital protection affordab
 ```yaml
 # sys.info
 user:         sooraj_suresh
-roles:        [ Founder & MD @ Gaze Guard Pvt. Ltd., Building Zeiroo, Developer @ ShiftNua ]
+roles:        [ Founder & MD @ Gaze Guard Pvt. Ltd., CTO @ Zeiroo, Developer @ ShiftNua ]
 shipped:      [ OakVyapar — Google Play, shiftnua.com ]
 education:    B.S. Computer & Information Security — University of North Texas (2027 → 2031)
 prev:         Higher Secondary, SVHSS Palemad — 93.67%
@@ -77,7 +77,7 @@ flowchart LR
 </details>
 
 ### 🔒 Zeiroo &nbsp; ![](https://img.shields.io/badge/status-building-d29922?style=flat-square) ![](https://img.shields.io/badge/release-coming_soon-8250df?style=flat-square)
-A new product I'm currently building as founder and lead developer. **Details will be shared at launch.**
+A new product where I lead technology as **Chief Technology Officer (CTO)**. **Details will be shared at launch.**
 
 ### 🏥 [ShiftNua](https://shiftnua.com) &nbsp; ![](https://img.shields.io/badge/status-website_live-2ea043?style=flat-square) ![](https://img.shields.io/badge/HealthTech-Ireland-8250df?style=flat-square)
 A **healthcare staffing platform for Ireland** that connects hospitals and care facilities with verified nurses and healthcare assistants (HCAs) who can cover shifts.
@@ -166,7 +166,7 @@ Microcontroller builds with sensors, displays and peripherals over **SPI and I²
 | **School** | 🥇 **1st place, District Science Fair** · Kerala **State Science Fair** participant |
 | **Aug 2024** | 🚀 Founded **Gaze Guard Pvt. Ltd.**, Founder & Managing Director |
 | **2026** | 📲 Shipped **OakVyapar** on Google Play for PicoGrain |
-| **Oct 2026** | 🔒 Started building **Zeiroo** · 🏥 started developing **ShiftNua** (website live) |
+| **Oct 2026** | 🔒 Joined **Zeiroo** as CTO · 🏥 started developing **ShiftNua** (website live) |
 | **Jan 2027** | 🎓 B.S. Computer & Information Security at **University of North Texas** |
 
 ## `07` &nbsp;// contact
