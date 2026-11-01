@@ -14,7 +14,7 @@
 
 ## `01` &nbsp;// about
 
-I'm a **founder and full-stack engineer** from Malappuram, Kerala. I build products end to end, from on-device AI hardware to multi-tenant SaaS platforms. In **January 2027** I start a **B.S. in Computer & Information Security at the University of North Texas**.
+I'm a **founder and full-stack engineer** from Malappuram, Kerala. I build products end to end, from on-device AI hardware to full-stack web and mobile platforms. In **January 2027** I start a **B.S. in Computer & Information Security at the University of North Texas**.
 
 I started building **Gaze Guard AI** in school: an offline assistive device that helps visually impaired people see, read and navigate. I funded early prototypes myself, including by working at a vegetable shop during my 10th board exams. The project earned a **national selection in the ATL Marathon** and went on to become **Gaze Guard Pvt. Ltd.** in 2024.
 
@@ -23,7 +23,7 @@ Long-term goal: **a cybersecurity company that makes digital protection affordab
 ```yaml
 # sys.info
 user:         sooraj_suresh
-roles:        [ Founder & MD @ Gaze Guard Pvt. Ltd., Founder & Lead Dev @ Zeiroo CRM, Developer @ ShiftNua ]
+roles:        [ Founder & MD @ Gaze Guard Pvt. Ltd., Building Zeiroo, Developer @ ShiftNua ]
 shipped:      [ OakVyapar — Google Play, shiftnua.com ]
 education:    B.S. Computer & Information Security — University of North Texas (2027 → 2031)
 prev:         Higher Secondary, SVHSS Palemad — 93.67%
@@ -76,31 +76,8 @@ flowchart LR
 - **Recognition**: ATL Marathon 2022–23 national selection · District Science Fair 1st place · Kerala State Science Fair participant
 </details>
 
-### 📈 Zeiroo CRM &nbsp; ![](https://img.shields.io/badge/status-active_development-d29922?style=flat-square) ![](https://img.shields.io/badge/SaaS-multi--tenant-8250df?style=flat-square)
-A **multi-tenant SaaS CRM for education and EdTech** sales and admissions teams. Each institution gets an isolated workspace with lead pipelines, automation and built-in communication.
-
-<details>
-<summary><b>▸ architecture & details</b></summary>
-
-```mermaid
-flowchart LR
-  WEB[Web dashboard] --> API
-  APP[Flutter Android app<br/>+ call monitoring] --> API
-  API[FastAPI REST API<br/>JWT auth · tenant isolation] --> DB[(PostgreSQL<br/>SQLAlchemy + Alembic)]
-  API --> AUTO[Workflow engine<br/>tasks · reminders]
-  API <--> WA[WhatsApp Cloud API]
-  API <--> MAIL[Email]
-  AUTO --> NOTIF[Notifications]
-```
-
-- **Multi-tenancy**: tenant-scoped data model with isolated workspaces per institution
-- **Sales engine**: lead capture, custom pipelines and stages, assignment, follow-ups
-- **Automation**: workflow rules, task management, reminders and notifications
-- **Communication**: WhatsApp Cloud API and email from inside the CRM
-- **Mobile companion**: Flutter and Riverpod Android app with call monitoring synced to lead records
-- **Stack**: `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `JWT` `Flutter` `Dart` `Riverpod`
-- **My role**: founder and lead developer, covering architecture, backend, database and mobile app
-</details>
+### 🔒 Zeiroo &nbsp; ![](https://img.shields.io/badge/status-building-d29922?style=flat-square) ![](https://img.shields.io/badge/release-coming_soon-8250df?style=flat-square)
+A new product I'm currently building as founder and lead developer. **Details will be shared at launch.**
 
 ### 🏥 [ShiftNua](https://shiftnua.com) &nbsp; ![](https://img.shields.io/badge/status-website_live-2ea043?style=flat-square) ![](https://img.shields.io/badge/HealthTech-Ireland-8250df?style=flat-square)
 A **healthcare staffing platform for Ireland** that connects hospitals and care facilities with verified nurses and healthcare assistants (HCAs) who can cover shifts.
@@ -189,7 +166,7 @@ Microcontroller builds with sensors, displays and peripherals over **SPI and I²
 | **School** | 🥇 **1st place, District Science Fair** · Kerala **State Science Fair** participant |
 | **Aug 2024** | 🚀 Founded **Gaze Guard Pvt. Ltd.**, Founder & Managing Director |
 | **2026** | 📲 Shipped **OakVyapar** on Google Play for PicoGrain |
-| **Oct 2026** | 📈 Started **Zeiroo CRM** · 🏥 started developing **ShiftNua** (website live) |
+| **Oct 2026** | 🔒 Started building **Zeiroo** · 🏥 started developing **ShiftNua** (website live) |
 | **Jan 2027** | 🎓 B.S. Computer & Information Security at **University of North Texas** |
 
 ## `07` &nbsp;// contact
