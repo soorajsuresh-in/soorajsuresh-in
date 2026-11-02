@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hdr-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hdr-light.svg">
-  <img alt="Sooraj Suresh — terminal profile" src="./assets/hdr-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hd2-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hd2-light.svg">
+  <img alt="Sooraj Suresh — terminal profile" src="./assets/hd2-dark.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -14,16 +14,16 @@
 
 ## `01` &nbsp;// about
 
-I'm a **founder and full-stack engineer** from Malappuram, Kerala. I build products end to end, from on-device AI hardware to full-stack web and mobile platforms. In **January 2027** I start a **B.S. in Computer & Information Security at the University of North Texas**.
+I'm an **entrepreneur and engineer** from Malappuram, Kerala: **Founder & MD of Gaze Guard**, **CTO of ShiftNua Technologies (Ireland)** and **CTO of Zeiroo**. I start with a real problem, not a product, and build the technology that solves it, from on-device AI hardware to full-stack web and mobile platforms. In **January 2027** I start a **B.S. in Computer & Information Security at the University of North Texas**.
 
-I started building **Gaze Guard AI** in school: an offline assistive device that helps visually impaired people see, read and navigate. I funded the early prototypes myself. The project earned a **national selection in the ATL Marathon** and went on to become **Gaze Guard Pvt. Ltd.** in 2024.
+I started building **Gaze Guard AI** in school: an offline assistive device that helps visually impaired people see, read and navigate. The project earned a **national selection in the ATL Marathon** and went on to become **Gaze Guard Pvt. Ltd.** in 2024.
 
 Long-term goal: **a cybersecurity company that makes digital protection affordable** for individuals, small businesses and underserved communities.
 
 ```yaml
 # sys.info
 user:         sooraj_suresh
-roles:        [ Founder & MD @ Gaze Guard Pvt. Ltd., CTO @ Zeiroo, Developer @ ShiftNua ]
+roles:        [ Founder & MD @ Gaze Guard Pvt. Ltd., CTO @ ShiftNua Technologies (IE), CTO @ Zeiroo ]
 shipped:      [ OakVyapar — Google Play, shiftnua.com ]
 education:    B.S. Computer & Information Security — University of North Texas (2027 → 2031)
 prev:         Higher Secondary, SVHSS Palemad — 93.67%
@@ -72,15 +72,15 @@ flowchart LR
 - **Text recognition**: reads printed text (signs, labels, documents) aloud
 - **Multilingual voice**: guidance in the user's own language
 - **Offline-first**: built to work without internet, for affordability and privacy
-- **My role**: founder, concept, AI and hardware integration, prototyping, funding
+- **My role**: founder, concept, AI and hardware integration, prototyping
 - **Recognition**: ATL Marathon 2022–23 national selection · District Science Fair 1st place · Kerala State Science Fair participant
 </details>
 
 ### 🔒 Zeiroo &nbsp; ![](https://img.shields.io/badge/status-building-d29922?style=flat-square) ![](https://img.shields.io/badge/release-coming_soon-8250df?style=flat-square)
-A new product where I lead technology as **Chief Technology Officer (CTO)**. **Details will be shared at launch.**
+A **problem-first technology brand**: we choose an industry, identify the real problems people face, and solve them with technology. I lead technology as **Chief Technology Officer (CTO)**. **First products launching soon.**
 
-### 🏥 [ShiftNua](https://shiftnua.com) &nbsp; ![](https://img.shields.io/badge/status-website_live-2ea043?style=flat-square) ![](https://img.shields.io/badge/HealthTech-Ireland-8250df?style=flat-square)
-A **healthcare staffing platform for Ireland** that connects hospitals and care facilities with verified nurses and healthcare assistants (HCAs) who can cover shifts.
+### 🏥 [ShiftNua Technologies](https://shiftnua.com) &nbsp; ![](https://img.shields.io/badge/role-CTO-0969da?style=flat-square) ![](https://img.shields.io/badge/status-website_live-2ea043?style=flat-square) ![](https://img.shields.io/badge/HealthTech-Ireland-8250df?style=flat-square)
+I'm the **CTO of ShiftNua Technologies**, a healthcare staffing technology company in Ireland. Our platform is a **healthcare staffing platform for Ireland** that connects hospitals and care facilities with verified nurses and healthcare assistants (HCAs) who can cover shifts.
 
 <details>
 <summary><b>▸ architecture & details</b></summary>
@@ -99,7 +99,7 @@ flowchart LR
 - **Workers**: build a profile, manage credentials and documents, discover shifts nearby
 - **Shift workflow**: attendance confirmation, timesheets, invoice and payment tracking
 - **Web**: [shiftnua.com](https://shiftnua.com) is live; the app is in development
-- **My role**: developer of the website, backend and mobile app
+- **My role**: CTO, leading platform architecture, the website, FastAPI backend, PostgreSQL and Flutter apps
 </details>
 
 ### 💼 [OakVyapar](https://play.google.com/store/apps/details?id=com.oakvyapar.app) &nbsp; ![](https://img.shields.io/badge/status-live_on_Google_Play-2ea043?style=flat-square&logo=googleplay&logoColor=white) ![](https://img.shields.io/badge/client-PicoGrain-8250df?style=flat-square)
@@ -166,7 +166,7 @@ Microcontroller builds with sensors, displays and peripherals over **SPI and I²
 | **School** | 🥇 **1st place, District Science Fair** · Kerala **State Science Fair** participant |
 | **Aug 2024** | 🚀 Founded **Gaze Guard Pvt. Ltd.**, Founder & Managing Director |
 | **2026** | 📲 Shipped **OakVyapar** on Google Play for PicoGrain |
-| **Oct 2026** | 🔒 Joined **Zeiroo** as CTO · 🏥 started developing **ShiftNua** (website live) |
+| **Oct 2026** | 🏥 Became **CTO of ShiftNua Technologies**, Ireland (website live) · 🔒 Joined **Zeiroo** as CTO |
 | **Jan 2027** | 🎓 B.S. Computer & Information Security at **University of North Texas** |
 
 ## `07` &nbsp;// contact
